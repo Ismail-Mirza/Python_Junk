@@ -10,7 +10,7 @@
 #you can convert the souce code into exe by 
 
 
- pyinstalller wget.py --onefile
+ ```pyinstalller wget.py --onefile```
  
  
  #For install pyinstaller 
